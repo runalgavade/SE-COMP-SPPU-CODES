@@ -1,5 +1,5 @@
 /*
-7. Write C++ program to implement Cohen Southerland line clipping algorithm.
+ Write C++ program to implement Cohen Southerland line clipping algorithm.
 */
 
 
